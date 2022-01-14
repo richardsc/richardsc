@@ -8,7 +8,7 @@ In the ocean, seawater is constantly being transformed by physical processes. Fr
 
 ## Software
 
-I am an advocate of free, open-source, and reproducible software tools for science, and as such am a long-time user of [R](http://r-project.org) and the R package ecosystem for my work. I am an active developer and co-author of the  [oce package](http://dankelley.github.io/oce/) for doing oceanographic analysis in, as well as the [argoFloats](http://argocanada.github.io/argoFloats/) package for finding, downloading, and working with data from the global [Argo](https://argo.ucsd.edu/) array of profiling floats.
+I am an advocate of free, open-source, and reproducible software tools for science, and as such am a long-time user of [R](http://r-project.org) and the R package ecosystem for my work. I am an active developer and co-author of the  [oce package](http://dankelley.github.io/oce/) for doing oceanographic analysis, as well as the [argoFloats](http://argocanada.github.io/argoFloats/) package for finding, downloading, and working with data from the global [Argo](https://argo.ucsd.edu/) array of profiling floats.
 
 ## Contact
 
