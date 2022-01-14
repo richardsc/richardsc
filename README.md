@@ -12,9 +12,9 @@ I am an advocate of free, open-source, and reproducible software tools for scien
 
 ## Contact
 
-[clarkrichards.org](clarkrichards.org)
-**email:** clark.richards AT dfo-mpo.gc.ca / clark.richards AT gmail.com  
-**twitter:** [@clarkgrichards](https://twitter.com/clarkgrichards)
+( [clarkrichards.org](clarkrichards.org)
+* **email:** clark.richards AT dfo-mpo.gc.ca / clark.richards AT gmail.com  
+* **twitter:** [@clarkgrichards](https://twitter.com/clarkgrichards)
 
 <!--
 **richardsc/richardsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
